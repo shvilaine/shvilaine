@@ -1,4 +1,11 @@
-### Hi there 👋
+<h2 align="center">Hi there! My name is Helene. 👋</h2>
+
+<p align="center">I am a French web developer :woman_technologist:. Welcome to my GitHub account, where I sometimes post projects.</p>
+
+<h2 align="center">Programming languages (always learning!) :computer: </h2>
+
+
+<h2 align="center">What I use</h2>
 
 <!--
 **shvilaine/shvilaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
