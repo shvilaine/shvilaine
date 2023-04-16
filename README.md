@@ -3,9 +3,11 @@
 <p align="center">I am a French web developer :woman_technologist:. Welcome to my GitHub account, where I sometimes post projects.</p>
 
 <h2 align="center">Programming languages (always learning!) :computer: </h2>
-
+<p align="center"> HTML / CSS / SCSS / PHP / Symfony / Javascript / Typescript / Nextjs / MySQL</p>
+<p align="center"> Currently learning: Nodejs / Nestjs</p>
 
 <h2 align="center">What I use</h2>
+<p align="center">Git / GitHub / Figma / Canva / Bootstrap / React </p>
 
 <!--
 **shvilaine/shvilaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
