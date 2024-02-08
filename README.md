@@ -4,7 +4,7 @@
 <p align="center">Welcome to my GitHub account, where I sometimes post projects.</p>
 
 <h2 align="center">Programming languages (always learning!) :computer: </h2>
-<p align="center"> HTML ![html](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) / CSS / SASS / PHP / Symfony / Javascript / Typescript / Nextjs / MySQL</p>
+<p align="center"> HTML / CSS / SASS / PHP / Symfony / Javascript / Typescript / Nextjs / MySQL</p>
 <p align="center"> Currently learning: Nodejs / Nestjs</p>
 
 <h2 align="center">What I use</h2>
