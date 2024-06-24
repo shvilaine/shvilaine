@@ -20,21 +20,27 @@
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="50">
 </p>
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="50"> &nbsp
+  <img src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg" height="50"> &nbsp 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" height="50">
+</p>
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" height="50"> &nbsp
   <img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" height="50">
 </p>
 &nbsp
 <h3 align="center"> Currently learning:</h3>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="50"> &nbsp
-  <img src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg" height="50"> &nbsp 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" height="50">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="50"> &nbsp
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="50"> &nbsp 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png?20160527092314" height="50">
 </p>
 &nbsp
 <h2 align="center">Tools I use</h2>
 &nbsp
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="50"> &nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eclipse-SVG.svg/48px-Eclipse-SVG.svg.png?20130206043050" height="50"> &nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="50"> &nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="50"> &nbsp 
   <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" height="50"> &nbsp
